@@ -16,3 +16,5 @@ Welcome to **Active Lineage** – a spiritually inspired yoga apparel brand root
 
 🗺️ Based in the **United States of America**  
 🔖 Powered by [Active Lineage LLC](https://activelineage.com)
+
+🌐 Also visit our GitHub landing page: [activelineage-landing](https://activelineage.github.io/activelineage-landing/)
